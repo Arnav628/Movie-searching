@@ -1,1 +1,1 @@
-# Movie-searching
+# Built a movie searching website using HTML, CSS, and JavaScript, allowing users to search and explore a vast database of movies. Leveraged the Fetch API to fetch movie data in real-time, providing an intuitive interface for users to discover and learn more about their favorite movies.
